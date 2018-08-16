@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Adibahce.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="Personel_ID" />
+    </Key>
+    <Property Name="Personel_ID" Type="int" Nullable="false" />
+    <Property Name="PersonelAdSoyad" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PersonelGirisTarihi" Type="date" Nullable="false" />
+    <Property Name="PersonelMaas" Type="int" />
+    <Property Name="PersonelMesaiSaat" Type="float" />
+  </EntityType>
+  <EntityType Name="Shift">
+    <Key>
+      <PropertyRef Name="Shift_ID" />
+    </Key>
+    <Property Name="Shift_ID" Type="int" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" />
+    <Property Name="Yil_ID" Type="int" Nullable="false" />
+    <Property Name="Ay_ID" Type="int" Nullable="false" />
+    <Property Name="Gun_ID" Type="int" Nullable="false" />
+    <Property Name="PersonelAdSoyad" Type="nvarchar(max)" />
+    <Property Name="GirisSaati" Type="time" Precision="7" />
+    <Property Name="CikisSaati" Type="time" Precision="7" />
+    <Property Name="Fark" Type="time" Precision="7" />
+    <Property Name="Izinli" Type="bit" Nullable="false" />
+    <Property Name="Yok" Type="bit" Nullable="false" />
+    <Property Name="Raporlu" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AdibahceStoreContainer">
+    <EntitySet Name="Personel" EntityType="Self.Personel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shift" EntityType="Self.Shift" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

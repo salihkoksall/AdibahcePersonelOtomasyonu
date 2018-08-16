@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\salih\Desktop\ProjeV4\|C:\Users\salih\Desktop\ProjeV3\|C:\Users\salih\Desktop\ProjeV2\|C:\Users\salih\Desktop\ProjeV1\|C:\Users\salih\Desktop\BuSeferSon\</PublishUrlHistory>
+    <InstallUrlHistory>https://adibahce.azurewebsites.net/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>https://1drv.ms/f/s!AloNHBd1yspTg_JkGPYzucE5259RsQ/|https://1drv.ms/f/s!AloNHBd1yspTg_JYoes6dszMsD71UQ/|https://drive.google.com/drive/folders/1s1nLORshGFdGUrpLjYo0SnhxEBGKKT1M/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>C:\Users\salih\Desktop\Yukleme|C:\Users\salih\Downloads\SQL Server LocalDB ve NetFramework\SQL Server LocalDB ve NetFramework</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

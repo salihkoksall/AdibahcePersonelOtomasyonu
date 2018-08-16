@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="Adibahce" />
+  <Alias Key="Target" Value="Adibahce.Store" />
+  <EntityContainerMapping CdmEntityContainer="AdibahceContainer" StorageEntityContainer="AdibahceStoreContainer">
+    <EntitySetMapping Name="Personel">
+      <EntityTypeMapping TypeName="Adibahce.Personel">
+        <MappingFragment StoreEntitySet="Personel">
+          <ScalarProperty Name="PersonelMesaiSaat" ColumnName="PersonelMesaiSaat" />
+          <ScalarProperty Name="PersonelMaas" ColumnName="PersonelMaas" />
+          <ScalarProperty Name="PersonelGirisTarihi" ColumnName="PersonelGirisTarihi" />
+          <ScalarProperty Name="PersonelAdSoyad" ColumnName="PersonelAdSoyad" />
+          <ScalarProperty Name="Personel_ID" ColumnName="Personel_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shift">
+      <EntityTypeMapping TypeName="Adibahce.Shift">
+        <MappingFragment StoreEntitySet="Shift">
+          <ScalarProperty Name="Raporlu" ColumnName="Raporlu" />
+          <ScalarProperty Name="Yok" ColumnName="Yok" />
+          <ScalarProperty Name="Izinli" ColumnName="Izinli" />
+          <ScalarProperty Name="Fark" ColumnName="Fark" />
+          <ScalarProperty Name="CikisSaati" ColumnName="CikisSaati" />
+          <ScalarProperty Name="GirisSaati" ColumnName="GirisSaati" />
+          <ScalarProperty Name="PersonelAdSoyad" ColumnName="PersonelAdSoyad" />
+          <ScalarProperty Name="Gun_ID" ColumnName="Gun_ID" />
+          <ScalarProperty Name="Ay_ID" ColumnName="Ay_ID" />
+          <ScalarProperty Name="Yil_ID" ColumnName="Yil_ID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Shift_ID" ColumnName="Shift_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
