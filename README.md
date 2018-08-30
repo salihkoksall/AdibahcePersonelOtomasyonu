@@ -13,8 +13,8 @@ Sakarya ili içerisinde 15 senedir hizmet veren Adıbahçe Catering firmasına y
 <a href="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullaniciGiris.png" target="_blank">
 <img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullaniciGiris.png" width="200" style="max-width:100%;"></a>
 
-<a href="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullaniciIslemleri2.png" target="_blank">
-<img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullaniciIslemleri2.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullanıciIslemleri2.png" target="_blank">
+<img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/KullanıciIslemleri2.png" width="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/OrtalamaAlma.png" target="_blank">
 <img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/OrtalamaAlma.png" width="200" style="max-width:100%;"></a>
