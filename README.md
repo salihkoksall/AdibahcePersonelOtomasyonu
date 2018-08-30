@@ -5,7 +5,7 @@ Sakarya ili içerisinde 15 senedir hizmet veren Adıbahçe Catering firmasına y
 # Project Display Image
 <p>
 <a href="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/AnaEkran1.png" target="_blank">
-<img src="https://https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/AnaEkran1.png" width="200" style="max-width:100%;"></a>
+<img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/AnaEkran1.png" width="200" style="max-width:100%;"></a>
   
   <a href="https://https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/Kisitlar" target="_blank">
 <img src="https://github.com/salihkoksall/AdibahcePersonelOtomasyonu/blob/master/img/Kisitlar.png" width="200" style="max-width:100%;"></a>
